@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-17 BZR 5290)-product   date = Fri Feb 20 17:37:19 2015
+
+BeginCmp
+TimeStamp = /54E7A7B2;
+Reference = P1;
+ValeurCmp = CONN_01X19;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x19;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7AE33;
+Reference = P2;
+ValeurCmp = CONN_01X19;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x19;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7A745;
+Reference = U1;
+ValeurCmp = MSP430G2955IDA38;
+IdModule  = SMD_Packages:AB2_TSSOP38;
+EndCmp
+
+EndListe
