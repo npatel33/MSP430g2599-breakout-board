@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-11-17 BZR 5290)-product   date = Fri Feb 20 17:37:19 2015
+Cmp-Mod V01 Created by Cvpcb (2015-02-18 BZR 5431)-product   date = Fri Mar 13 22:33:04 2015
 
 BeginCmp
 TimeStamp = /54E7A7B2;
@@ -18,7 +18,7 @@ BeginCmp
 TimeStamp = /54E7A745;
 Reference = U1;
 ValeurCmp = MSP430G2955IDA38;
-IdModule  = SMD_Packages:AB2_TSSOP38;
+IdModule  = SMD_Packages:AB2_TSSOP38_W;
 EndCmp
 
 EndListe
