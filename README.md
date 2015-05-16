@@ -3,5 +3,5 @@ MSP430G2599 TSSOP-38 to DIP breakout board
 
 Breakout board is designed in Open-source PCB CAD Software KiCAD.
 
-![alt tag](http://s18.postimg.org/oj901fhp5/tssop_breakout.jpg)
-![alt tag](http://s18.postimg.org/a1bstfqe1/tssop_breakout_120.jpg)
+![alt tag](http://s16.postimg.org/6icxhjut1/tssop_breakout.jpg)
+![alt tag](http://s9.postimg.org/9se4yfqbj/tssop_breakout_2.jpg)
