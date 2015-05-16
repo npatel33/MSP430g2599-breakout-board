@@ -383,4 +383,6 @@ Text Label 4600 1600 0    60   ~ 0
 16
 Text Notes 4250 1350 0    60   ~ 0
 MSP430G2955 Breakout Board
+Text Notes 4850 1450 0    60   ~ 0
+EDIT\n
 $EndSCHEMATC
